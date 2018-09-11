@@ -1,7 +1,8 @@
 package Easy;
 
-public class NextGreatElement_I {
+import cse131.ArgsProcessor;
 
+public class NextGreatElement_I {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] nums1 = {2, 4};

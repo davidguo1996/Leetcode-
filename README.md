@@ -1,2 +1,3 @@
 # Leetcode-
-Practice
+It's just for practising based on interest.
+

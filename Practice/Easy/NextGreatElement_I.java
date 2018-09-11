@@ -1,4 +1,4 @@
-
+package Easy;
 
 public class NextGreatElement_I {
 
